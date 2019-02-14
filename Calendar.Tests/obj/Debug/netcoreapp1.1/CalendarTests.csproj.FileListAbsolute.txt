@@ -1,0 +1,14 @@
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\CalendarTests.deps.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\CalendarTests.runtimeconfig.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\CalendarTests.runtimeconfig.dev.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\CalendarTests.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\CalendarTests.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\Calendar.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\bin\Debug\netcoreapp1.1\Calendar.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp1.1\CalendarTests.csproj.CoreCompileInputs.cache
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp1.1\CalendarTests.AssemblyInfo.cs
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp1.1\CalendarTests.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar.Tests\obj\Debug\netcoreapp1.1\CalendarTests.pdb

@@ -1,0 +1,7 @@
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\bin\Debug\netcoreapp1.1\Calendar.deps.json
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\bin\Debug\netcoreapp1.1\Calendar.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\bin\Debug\netcoreapp1.1\Calendar.pdb
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.csproj.CoreCompileInputs.cache
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.AssemblyInfo.cs
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.dll
+c:\Users\mstrickland\Desktop\Epicodus\Csharp\Calendar.Solution\Calendar\obj\Debug\netcoreapp1.1\Calendar.pdb
